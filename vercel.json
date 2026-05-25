@@ -1,5 +1,5 @@
 {
-  "framework": "laravel",
+  "framework": "vite",
   "buildCommand": "npm run build",
   "outputDirectory": "public",
   "env": {
