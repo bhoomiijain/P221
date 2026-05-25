@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img">
+  <rect width="240" height="240" fill="#e0f2fe" rx="24"/>
+  <rect x="48" y="56" width="144" height="128" rx="16" fill="#fff" stroke="#0369a1" stroke-width="4"/>
+  <rect x="64" y="72" width="112" height="72" rx="8" fill="#e0f2fe"/>
+  <circle cx="120" cy="108" r="28" fill="#0369a1" opacity="0.15"/>
+  <text x="120" y="114" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" fill="#0369a1">Ibuprofen</text>
+  <rect x="88" y="148" width="64" height="20" rx="10" fill="#0369a1"/>
+  <text x="120" y="162" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="600" fill="#fff">10 tabs</text>
+</svg>
