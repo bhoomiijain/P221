@@ -1,9 +1,0 @@
-{
-  "framework": "vite",
-  "buildCommand": "npm run build",
-  "outputDirectory": "public",
-  "env": {
-    "APP_DEBUG": "false",
-    "APP_ENV": "production"
-  }
-}
