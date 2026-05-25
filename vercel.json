@@ -2,9 +2,6 @@
   "framework": "laravel",
   "buildCommand": "npm run build",
   "outputDirectory": "public",
-  "php": {
-    "version": "8.2"
-  },
   "env": {
     "APP_DEBUG": "false",
     "APP_ENV": "production"
